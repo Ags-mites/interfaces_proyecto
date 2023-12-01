@@ -90,11 +90,11 @@
 
 
   .boton-rosado {
-    background-color: #FF4081;
+    background-color: #ff7ba7;
     color: #FFFFFF;
     padding: 10px 20px;
     border: none;
-    border-radius: 4px;
+    border-radius: 30px;
     font-size: 16px;
     cursor: pointer;
   }
